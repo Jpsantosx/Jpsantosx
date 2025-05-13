@@ -79,7 +79,7 @@ Me chamo João Pedro Stadler Roza Santos, tenho 16 anos e sou natural de São Pa
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="150" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Jpsantosx&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -87,7 +87,7 @@ Me chamo João Pedro Stadler Roza Santos, tenho 16 anos e sou natural de São Pa
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="150" 
+      height="100" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jpsantosx&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
