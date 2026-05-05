@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo João Pedro Stadler Roza Santos, tenho 16 anos e sou natural de São Paulo. Estou cursando o ensino médio na escola SESI-SENAI, com o curso técnico em Análise e Desenvolvimento de Sistemas.
+Me chamo João Pedro Stadler Roza Santos, tenho 17 anos e sou natural de São Paulo. Estou cursando o ensino médio na escola SESI-SENAI, com o curso técnico em Análise e Desenvolvimento de Sistemas.
  <p>
  
   <a href="https://github.com/Jpsantosxtab=repositories&sort=stargazers">
@@ -66,24 +66,6 @@ Me chamo João Pedro Stadler Roza Santos, tenho 16 anos e sou natural de São Pa
 <br/>
 <br/>
 
-### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="150" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Jpsantosx&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="100" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jpsantosx&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
 
 
